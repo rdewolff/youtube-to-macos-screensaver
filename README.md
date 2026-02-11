@@ -91,4 +91,4 @@ Result:
 - If the preferred YouTube format is unavailable, the build script automatically falls back to `best`.
 - Only use video content you have the rights to download and display.
 
-Shoutout: My main project is [whisperit.ai](https://whisperit.ai).
+Sponsor note: This project is powered by my main company, [Whisperit.ai](https://whisperit.ai).
